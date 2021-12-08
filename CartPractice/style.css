@@ -1,0 +1,28 @@
+img {
+    width: 200px;
+    height: 230px;
+}
+
+#search-icon{
+    width: 40px;
+    height: 40px;
+}
+
+#search{
+    width:500px;
+    border: 230px;
+}
+
+#cart-icon{
+    width: 40px;
+    height: 40px;
+}
+
+#theme-icon{
+    width: 40px;
+    height: 40px;
+}
+
+.dark-theme{
+    background: blanchedalmond;
+}
